@@ -1,0 +1,4 @@
+INSERT INTO ITEMS VALUES (1, 'Sample Item');
+INSERT INTO ITEMS VALUES (3, 'Sample Item 3');
+INSERT INTO ITEMS VALUES (4, 'Sample Item 4');
+INSERT INTO ITEMS VALUES (5, 'Sample Item 5');
